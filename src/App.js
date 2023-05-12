@@ -33,9 +33,9 @@ function classNames(...classes) {
 }
 
 function App() {
-    return (
-        <div className="App">
-           <div className="min-h-full">
+  return (
+    <div className="App">
+      <div className="min-h-full">
         <Disclosure as="nav" className="bg-gray-800">
           {({ open }) => (
             <>
@@ -184,15 +184,15 @@ function App() {
         </Disclosure>
 
         <header className="bg-white shadow">
-          
+
         </header>
         <main>
-          <div className="mx-auto max-w-7xl py-6 sm:px-6 lg:px-8">{<Student/>}</div>
-          
+          <div className="mx-auto max-w-7xl py-6 sm:px-6 lg:px-8">{<Student />}</div>
+
         </main>
       </div>
-        </div>
-    );
+    </div>
+  );
 }
 
 export default App;
