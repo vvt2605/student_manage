@@ -1,5 +1,4 @@
-Watch demo in here http://192.168.56.1:3000
-
+Watch demo in here https://vvt2605.github.io/student_manage/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
